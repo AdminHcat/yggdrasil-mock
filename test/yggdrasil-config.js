@@ -16,7 +16,7 @@ module.exports = {
 			email: "test1@example.com",
 			// 不能使用的密码：
 			// incorrectPassword-_-
-			password: "111111"
+			password: "Password"
 		},
 
 		user2: {
